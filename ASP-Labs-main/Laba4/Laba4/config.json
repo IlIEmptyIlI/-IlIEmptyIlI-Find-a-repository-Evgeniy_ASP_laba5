@@ -1,0 +1,44 @@
+{
+  "Lib": {
+    "Books": [
+      {
+        "name": "The Gates of Terra",
+        "author": "Nick Kyme"
+      },
+      {
+        "name": "Warcraft Day of the Dragon",
+        "author": "Richard A. Knaak"
+      },
+      {
+        "name": "Warcraft Lord of the Clans",
+        "author": "Christie Golden"
+      },
+      {
+        "name": "Spurrier Simon ",
+        "author": "Lord of the Night"
+      },
+      {
+        "name": "The Maharius Crusade",
+        "author": "William King"
+      }
+    ],
+    "Profiles": [
+      {
+        "firstname": "Evgeniy",
+        "lastname": "Skivka"
+      },
+      {
+        "firstname": "Maxim",
+        "lastname": "Pavelchuk"
+      },
+      {
+        "firstname": "Danil",
+        "lastname": "Tsapok"
+      },
+      {
+        "firstname": "Denis",
+        "lastname": "Tcapok"
+      }
+    ]
+  }
+}
